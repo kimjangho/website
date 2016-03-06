@@ -1,0 +1,31 @@
+/*
+Project Name: The state of mind
+Author: Jamie Kim
+Author URI: http://www.jamiekim.com/
+Description: the state of mind - Photography Portfolio HTML5 Template.
+Version: 1.0
+Tags: light, white, multipurpose, multi page, custom-colors, Bootstrap,responsive, html5, css3,Sass
+*/
+
+
+/* Table of Content
+==================================================
+#BASIC TYPOGRAPHY
+#HEADER 
+#MENU 
+#HOME PAGE
+#PORTFOLIO PAGE
+#ABOUT PAGE
+#CONTACT PAGE
+
+
+html body
+
+#header #nav-icon {
+  color: #000;
+  float: right;
+  font-size: 22px;
+  position: fixed;
+  right: 5%;
+  top: 25px;
+}
